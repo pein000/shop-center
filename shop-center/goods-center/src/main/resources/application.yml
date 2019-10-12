@@ -1,0 +1,19 @@
+server:
+  port: 8020
+  context-path: /goods-center
+  display-name: goods-center
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:9000/eureka/
+spring:
+  application:
+    name: goods-center
+  ## 默认dev
+  profiles:
+    active: dev
+## 因安全相关，仅开放health
+endpoints:
+  enabled: false
+  health:
+    enabled: true

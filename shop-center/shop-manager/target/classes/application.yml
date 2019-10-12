@@ -1,0 +1,18 @@
+server:
+  port: 8010
+  context-path: /shop-manager
+spring:
+  application:
+    name: shop-manager
+  ## 默认dev
+  profiles:
+    active: dev
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:9000/eureka/
+## 因安全相关，仅开放health
+endpoints:
+  enabled: false
+  health:
+    enabled: true
