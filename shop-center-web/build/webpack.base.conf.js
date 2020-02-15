@@ -1,4 +1,5 @@
 'use strict'
+const webpack = require('webpack')
 const path = require('path')
 const utils = require('./utils')
 const config = require('../config')
@@ -14,8 +15,8 @@ const createLintingRule = () => ({
   enforce: 'pre',
   include: [resolve('src'), resolve('test')],
   options: {
-   formatter: require('eslint-friendly-formatter'),
-   emitWarning: !config.dev.showEslintErrorsInOverlay
+    formatter: require('eslint-friendly-formatter'),
+    emitWarning: !config.dev.showEslintErrorsInOverlay
   }
 })
 
@@ -24,6 +25,13 @@ module.exports = {
   entry: {
     app: './src/main.js'
   },
+  plugins: [
+    new webpack.ProvidePlugin({
+      $:'jquery',
+      'jQuery':'jquery',
+      'windows.jQuery': 'jquery'
+    })
+  ],
   output: {
     path: config.build.assetsRoot,
     filename: '[name].js',
@@ -74,19 +82,8 @@ module.exports = {
           limit: 10000,
           name: utils.assetsPath('fonts/[name].[hash:7].[ext]')
         }
-      },
-      {
-        test: /\.swf$/, //此处添加视频组件的.swf文件编译
-        loader: 'url-loader',
-        options: {
-          limit: 10000
-        }
       }
     ]
-  },
-  externals: {
-    'AMap': 'AMap',
-    'AMapUI': 'AMapUI'
   },
   node: {
     // prevent webpack from injecting useless setImmediate polyfill because Vue

@@ -1,4 +1,4 @@
-# platform-web
+# shop-center-web
 
 > A Vue.js project
 

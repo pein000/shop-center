@@ -1,2 +1,2 @@
-com\pein\order\controller\CreateController.class
-com\pein\order\OrderApplication.class
+com\pein\goods\OrderApplication.class
+com\pein\goods\controller\CreateController.class

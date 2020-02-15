@@ -1,2 +1,9 @@
-com\pein\sales\controller\WebController.class
-com\pein\sales\SalesApplication.class
+com\pein\goods\vo\GoodsInfoVo.class
+com\pein\goods\vo\GoodsClassifyVo.class
+com\pein\goods\mapper\GoodsClassifyMapper.class
+com\pein\goods\controller\GoodsController.class
+com\pein\goods\service\GoodsService.class
+com\pein\goods\mapper\GoodsInfoMapper.class
+com\pein\goods\entity\GoodsClassify.class
+com\pein\goods\entity\GoodsInfo.class
+com\pein\goods\GoodsApplication.class

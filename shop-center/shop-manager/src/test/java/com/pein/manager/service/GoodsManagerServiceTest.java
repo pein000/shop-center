@@ -8,6 +8,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
+import java.util.concurrent.BrokenBarrierException;
+import java.util.concurrent.CyclicBarrier;
+
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class GoodsManagerServiceTest {
@@ -28,4 +31,38 @@ public class GoodsManagerServiceTest {
     @Test
     public void delete() {
     }
+
+    @Test
+    public void test() {
+        CyclicBarrier cyclicBarrier = new CyclicBarrier(2);
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("-------------");
+                try {
+                    cyclicBarrier.await();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                } catch (BrokenBarrierException e) {
+                    e.printStackTrace();
+                }
+            }
+        });
+    }
+
+    private class TThread extends Thread {
+
+        @Override
+        public void run() {
+            super.run();
+        }
+    }
+
+
+    public void testSingleton() {
+        Resource resource = EnumSingleton.INSTANCE.getInstance();
+        Singleton instance = Singleton.getInstance();
+
+    }
+
 }

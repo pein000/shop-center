@@ -1,2 +1,9 @@
-D:\src\s2b2c\shop-center\goods-center\src\main\java\com\pein\sales\SalesApplication.java
-D:\src\s2b2c\shop-center\goods-center\src\main\java\com\pein\sales\controller\WebController.java
+F:\娱乐\src\shop-center\shop-center\goods-center\src\main\java\com\pein\goods\vo\GoodsClassifyVo.java
+F:\娱乐\src\shop-center\shop-center\goods-center\src\main\java\com\pein\goods\GoodsApplication.java
+F:\娱乐\src\shop-center\shop-center\goods-center\src\main\java\com\pein\goods\service\GoodsService.java
+F:\娱乐\src\shop-center\shop-center\goods-center\src\main\java\com\pein\goods\mapper\GoodsInfoMapper.java
+F:\娱乐\src\shop-center\shop-center\goods-center\src\main\java\com\pein\goods\entity\GoodsInfo.java
+F:\娱乐\src\shop-center\shop-center\goods-center\src\main\java\com\pein\goods\controller\GoodsController.java
+F:\娱乐\src\shop-center\shop-center\goods-center\src\main\java\com\pein\goods\vo\GoodsInfoVo.java
+F:\娱乐\src\shop-center\shop-center\goods-center\src\main\java\com\pein\goods\entity\GoodsClassify.java
+F:\娱乐\src\shop-center\shop-center\goods-center\src\main\java\com\pein\goods\mapper\GoodsClassifyMapper.java

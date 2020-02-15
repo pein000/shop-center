@@ -1,0 +1,6 @@
+com\pein\manager\vo\GoodsInfoVo.class
+com\pein\manager\entity\GoodsInfo.class
+com\pein\manager\controller\GoodsController.class
+com\pein\manager\ManagerApplication.class
+com\pein\manager\mapper\GoodsInfoMapper.class
+com\pein\manager\service\GoodsManagerService.class

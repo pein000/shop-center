@@ -43,6 +43,7 @@
         <com.pein.cloud.base.version>0.0.1-SNAPSHOT</com.pein.cloud.base.version>
         <guava.version>24.1-jre</guava.version>
         <druid.version>1.1.5</druid.version>
+        <elasticsearch.client.version>6.2.3</elasticsearch.client.version>
     </properties>
 
     <dependencyManagement>
