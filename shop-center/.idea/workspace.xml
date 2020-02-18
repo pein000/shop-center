@@ -2,182 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a0b4552-cd36-4c30-928e-4f2c00c424c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../shop-center-h5/src/assets/css/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/AdminLTE.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/AdminLTE.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/adminlte.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/adminlte.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/alt/AdminLTE-bootstrap-social.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/alt/AdminLTE-bootstrap-social.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/alt/AdminLTE-fullcalendar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/alt/AdminLTE-fullcalendar.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/alt/AdminLTE-select2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/alt/AdminLTE-select2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/alt/AdminLTE-without-plugins.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/alt/AdminLTE-without-plugins.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/_all-skins.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/_all-skins.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-black-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-black-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-black.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-black.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-blue-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-blue-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-blue.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-green-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-green-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-purple-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-purple-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-purple.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-purple.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-red-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-red-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-red.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-red.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-yellow-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-yellow-light.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-yellow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/css/skins/skin-yellow.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/avatar04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/avatar2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/avatar3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/avatar5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/credit/american-express.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/credit/cirrus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/credit/mastercard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/credit/mestro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/credit/paypal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/credit/paypal2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/credit/visa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/default-50x50.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/photo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/photo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/photo3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/photo4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/user1-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/user2-160x160.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/user3-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/user4-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/user5-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/user6-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/user7-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/img/user8-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/js/adminlte.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/js/adminlte.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/js/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/js/pages/dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop-center-web/src/assets/js/pages/dashboard2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-manager/src/main/java/com/pein/manager/config/ElasticsearchConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-manager/src/test/java/com/pein/manager/service/EnumSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-manager/src/test/java/com/pein/manager/service/Resource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shop-manager/src/test/java/com/pein/manager/service/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-h5/src/assets/vux_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-h5/src/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-h5/src/components/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/.eslintignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/.eslintrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/.postcssrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/.postcssrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/build/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/build/build.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/build/check-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/build/check-versions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/build/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/build/vue-loader.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/build/vue-loader.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/build/webpack.base.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/build/webpack.dev.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/build/webpack.dev.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/build/webpack.prod.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/build/webpack.prod.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/config/dev.env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/config/prod.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/config/prod.env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/config/test.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/config/test.env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/bg-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/bg10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/bg8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/bg9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/bright.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/crossed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/icon10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/icon3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/icon6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/icon9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/icons2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/icons5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/old.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/pool.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/red.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/star.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/tip1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/tips.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/twit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/assets/xv.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/client/axiosClient.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/src/components/HelloWorld.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/view/device/channel_manage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/view/device/device_register.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/view/device/device_unregister.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/view/display.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/view/login.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/view/manage_info/configure.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/view/manage_info/state_display.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/view/user_manage/authority.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/view/user_manage/role.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/view/user_manage/user.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/view/video_preview/map_model.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/view/video_preview/wall_model.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/src/view/video_preview/wall_model2.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/static/image_default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/static/map-marker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/test/e2e/custom-assertions/elementCount.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/test/e2e/nightwatch.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/test/e2e/nightwatch.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/test/e2e/runner.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/test/e2e/runner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/test/e2e/specs/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/test/e2e/specs/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/test/unit/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/test/unit/.eslintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/test/unit/jest.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/test/unit/jest.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/test/unit/setup.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/test/unit/setup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shop-center-web/test/unit/specs/HelloWorld.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-center-web/test/unit/specs/HelloWorld.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka-center/target/eureka-center-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-center/target/eureka-center-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka-center/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-center/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-center/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-center/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka-center/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-center/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goods-center/target/goods-center-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-center/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods-center/target/goods-center.jar" beforeDir="false" afterPath="$PROJECT_DIR$/goods-center/target/goods-center.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/goods-center/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/goods-center/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/goods-center/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/goods-center/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/goods-center/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/goods-center/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/member-center/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/member-center/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/member-center/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/member-center/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/member-center/target/member-center-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/member-center/target/member-center-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-center/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-center/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-center/target/classes/com/pein/order/OrderApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-center/target/classes/com/pein/order/controller/CreateController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods-center/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-center/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/src/main/java/com/pein/member/MemberApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-center/src/main/java/com/pein/user/UserApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/src/main/java/com/pein/member/controller/AddController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-center/src/main/java/com/pein/user/controller/AddController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/src/main/java/com/pein/member/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-center/src/main/java/com/pein/user/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/src/main/java/com/pein/member/dao/domain/MemberInfoDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-center/src/main/java/com/pein/user/dao/domain/UserInfoDo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/src/main/java/com/pein/member/dao/domain/MemberInfoDoExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-center/src/main/java/com/pein/user/dao/domain/UserInfoDoExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/src/main/java/com/pein/member/dao/mapper/MemberInfoDoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-center/src/main/java/com/pein/user/dao/mapper/UserInfoDoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/src/main/java/com/pein/member/service/MemberInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-center/src/main/java/com/pein/user/service/UserInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-center/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/src/main/resources/com/pein/member/mapper/MemberInfoDoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-center/src/main/resources/com/pein/user/mapper/UserInfoDoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-center/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/classes/com/pein/member/MemberApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/classes/com/pein/member/controller/AddController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/classes/com/pein/member/controller/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/classes/com/pein/member/dao/domain/MemberInfoDo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/classes/com/pein/member/dao/domain/MemberInfoDoExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/classes/com/pein/member/dao/domain/MemberInfoDoExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/classes/com/pein/member/dao/domain/MemberInfoDoExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/classes/com/pein/member/dao/domain/MemberInfoDoExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/classes/com/pein/member/dao/mapper/MemberInfoDoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/classes/com/pein/member/mapper/MemberInfoDoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/classes/com/pein/member/service/MemberInfoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/classes/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user-center/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/user-center/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member-center/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/order-center/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-center/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order-center/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/order-center/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order-center/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/order-center/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-center/target/order-center-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-center/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-center/target/shop-manager.jar" beforeDir="false" afterPath="$PROJECT_DIR$/order-center/target/shop-manager.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-common/src/main/java/com/pein/modal/dto/MemberInfoDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-common/src/main/java/com/pein/modal/dto/UserInfoDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-common/target/classes/com/pein/modal/dto/MemberInfoDTO.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/shop-common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/shop-common/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/shop-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/shop-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/shop-common/target/shop-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/shop-common/target/shop-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-manager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shop-manager/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-manager/src/test/java/com/pein/manager/service/GoodsManagerServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-manager/src/test/java/com/pein/manager/service/GoodsManagerServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/target/classes/com/pein/manager/ManagerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/shop-manager/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/shop-manager/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/target/shop-manager.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-manager/target/test-classes/com/pein/manager/service/GoodsManagerServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-stub/src/main/java/com/pein/api/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/shop-stub/src/main/java/com/pein/api/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-stub/target/classes/com/pein/api/MemberService.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/shop-stub/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/shop-stub/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-stub/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/shop-stub/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop-stub/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/shop-stub/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-stub/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/shop-stub/target/shop-stub-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/shop-stub/target/shop-stub-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-center/target/member-center-1.0-SNAPSHOT.jar" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -196,6 +91,7 @@
     <ignored path="$PROJECT_DIR$/shop-stub/target/" />
     <ignored path="$PROJECT_DIR$/shop-common/target/" />
     <ignored path="$PROJECT_DIR$/shop-manager/target/" />
+    <ignored path="$PROJECT_DIR$/user-center/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,86 +118,81 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-manager/src/test/java/com/pein/manager/service/GoodsManagerServiceTest.java">
+        <entry file="file://$PROJECT_DIR$/user-center/src/main/java/com/pein/user/controller/AddController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1555#1556#0" expanded="true" />
-                <element signature="e#1590#1591#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="351">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-stub/src/main/java/com/pein/api/AggregationService.java">
+        <entry file="file://$PROJECT_DIR$/user-center/src/main/java/com/pein/user/dao/domain/UserInfoDo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="108">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-stub/src/main/java/com/pein/api/MemberService.java">
+        <entry file="file://$PROJECT_DIR$/user-center/src/main/java/com/pein/user/dao/domain/UserInfoDoExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="135">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-stub/src/main/java/com/pein/api/OrderService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/member-center/src/main/java/com/pein/member/controller/AddController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/member-center/src/main/java/com/pein/member/dao/domain/MemberInfoDo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/goods-center/src/main/java/com/pein/goods/GoodsApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-stub/pom.xml">
+        <entry file="file://$PROJECT_DIR$/user-center/src/main/resources/com/pein/user/mapper/UserInfoDoMapper.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka-center/src/main/resources/application.yml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" selection-start-line="15" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="1215">
+              <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user-center/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user-center/src/main/resources/generatorConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user-center/src/main/java/com/pein/user/controller/HomeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goods-center/src/main/java/com/pein/goods/controller/GoodsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -309,7 +200,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/goods-center/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="486">
               <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
             </state>
           </provider>
@@ -341,19 +232,23 @@
       <find>MemberService</find>
       <find>member-test</find>
       <find>order-test</find>
+      <find>member</find>
+      <find>Member</find>
     </findStrings>
     <replaceStrings>
       <replace>pein</replace>
       <replace>com.pein.goods</replace>
+      <replace>user</replace>
+      <replace>User</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/eureka-center/pom.xml" />
         <option value="$PROJECT_DIR$/member-center/pom.xml" />
         <option value="$PROJECT_DIR$/member-center/src/main/resources/generatorConfig.xml" />
         <option value="$PROJECT_DIR$/member-center/src/main/java/com/akucun/member/controller/AddController.java" />
@@ -404,6 +299,7 @@
         <option value="$PROJECT_DIR$/shop-manager/src/test/java/com/pein/manager/service/EnumSingleton.java" />
         <option value="$PROJECT_DIR$/shop-manager/src/test/java/com/pein/manager/service/Singleton.java" />
         <option value="$PROJECT_DIR$/shop-manager/src/test/java/com/pein/manager/service/GoodsManagerServiceTest.java" />
+        <option value="$PROJECT_DIR$/member-center/src/main/java/com/pein/member/dao/domain/MemberInfoDoExample.java" />
       </list>
     </option>
   </component>
@@ -428,6 +324,11 @@
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shop-center" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="shop-manager" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
@@ -439,7 +340,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="4" />
     <option name="y" value="1" />
     <option name="width" value="1022" />
@@ -451,7 +352,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -462,25 +362,70 @@
             <path>
               <item name="shop-center" type="b2602c69:ProjectViewProjectNode" />
               <item name="shop-center" type="462c0819:PsiDirectoryNode" />
-              <item name="goods-center" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shop-center" type="b2602c69:ProjectViewProjectNode" />
               <item name="shop-center" type="462c0819:PsiDirectoryNode" />
-              <item name="goods-center" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shop-center" type="b2602c69:ProjectViewProjectNode" />
               <item name="shop-center" type="462c0819:PsiDirectoryNode" />
-              <item name="goods-center" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shop-center" type="b2602c69:ProjectViewProjectNode" />
               <item name="shop-center" type="462c0819:PsiDirectoryNode" />
-              <item name="goods-center" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-center" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-center" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="modal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-center" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-center" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="modal" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-center" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-center" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-stub" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-center" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-center" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-stub" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-center" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-center" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-stub" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-center" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-center" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-stub" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -488,30 +433,17 @@
             <path>
               <item name="shop-center" type="b2602c69:ProjectViewProjectNode" />
               <item name="shop-center" type="462c0819:PsiDirectoryNode" />
-              <item name="goods-center" type="462c0819:PsiDirectoryNode" />
+              <item name="shop-stub" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="goods" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop-center" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop-center" type="462c0819:PsiDirectoryNode" />
-              <item name="member-center" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop-center" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="shop-center" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.elasticsearch.client:x-pack-transport:6.2.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -525,13 +457,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582016189972" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/shop-manager/src/main/java/com/pein/manager" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Program Files (x86)/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -814,6 +747,7 @@
       <workItem from="1578620902942" duration="2205000" />
       <workItem from="1580804501754" duration="591000" />
       <workItem from="1580911447304" duration="597000" />
+      <workItem from="1581991564305" duration="2391000" />
     </task>
     <servers />
   </component>
@@ -823,7 +757,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94889000" />
+    <option name="totallyTimeSpent" value="100195000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -835,10 +769,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="1" width="1022" height="726" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22955975" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2813175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -848,13 +781,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43569845" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43528065" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991131" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.3292683" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3292683" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32875144" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3292683" />
@@ -865,7 +798,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32976446" />
+      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.32937366" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.32976446" />
@@ -882,24 +815,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/goods-center/src/main/resources/GoodsInfoMapper.xml" />
-    <entry file="file://$PROJECT_DIR$/goods-center/src/main/java/com/pein/goods/entity/GoodsInfoExample.java" />
-    <entry file="file://$PROJECT_DIR$/order-center/src/main/java/com/pein/goods/service/GoodsService.java" />
-    <entry file="file://$PROJECT_DIR$/goods-center/src/main/java/com/pein/goods/entity/GoodsInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goods-center/src/main/java/com/pein/goods/controller/WebController.java" />
-    <entry file="file://$PROJECT_DIR$/goods-center/src/main/resources/generatorConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/goods-center/src/main/java/com/pein/goods/entity/GoodsClassify.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -939,18 +854,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/goods-center/src/main/java/com/pein/goods/vo/GoodsClassifyVo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="135">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goods-center/src/main/java/com/pein/goods/vo/GoodsInfoVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -972,26 +877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
           <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goods-center/src/main/java/com/pein/goods/service/GoodsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="26" column="44" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goods-center/src/main/java/com/pein/goods/controller/GoodsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1084,13 +969,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Users/IT/.m2/repository/org/elasticsearch/client/x-pack-transport/6.2.3/x-pack-transport-6.2.3.jar!/org/elasticsearch/xpack/client/PreBuiltXPackTransportClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/Users/IT/.m2/repository/org/elasticsearch/client/x-pack-transport/6.2.3/x-pack-transport-6.2.3.jar!/org/elasticsearch/xpack/client/PreBuiltXPackTransportClient.class" />
     <entry file="file://$MAVEN_REPOSITORY$/org/elasticsearch/plugin/x-pack-api/6.2.3/x-pack-api-6.2.3.pom">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="617">
@@ -1116,13 +995,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1501">
           <caret line="79" column="31" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -1189,7 +1061,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-stub/src/main/java/com/pein/api/MemberService.java">
+    <entry file="file://$PROJECT_DIR$/shop-stub/src/main/java/com/pein/api/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
@@ -1203,17 +1075,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/member-center/src/main/java/com/pein/member/controller/AddController.java">
+    <entry file="file://$PROJECT_DIR$/shop-common/src/main/java/com/pein/modal/dto/UserInfoDTO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        <state relative-caret-position="297">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/member-center/src/main/java/com/pein/member/dao/domain/MemberInfoDo.java">
+    <entry file="file://$PROJECT_DIR$/goods-center/src/main/java/com/pein/goods/GoodsApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="135">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goods-center/src/main/java/com/pein/goods/service/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goods-center/src/main/java/com/pein/goods/vo/GoodsInfoVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1222,27 +1117,95 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka-center/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="405">
           <caret line="15" selection-start-line="15" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/goods-center/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="486">
           <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goods-center/src/main/java/com/pein/goods/GoodsApplication.java">
+    <entry file="file://$PROJECT_DIR$/goods-center/src/main/java/com/pein/goods/controller/GoodsController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="-7">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/user-center/src/main/java/com/pein/user/controller/AddController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-center/src/main/java/com/pein/user/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-center/src/main/java/com/pein/user/dao/domain/UserInfoDo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-center/src/main/java/com/pein/user/dao/domain/UserInfoDoExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-center/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-center/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-center/src/main/resources/com/pein/user/mapper/UserInfoDoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

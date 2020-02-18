@@ -6,7 +6,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>goods-center</module>
-        <module>member-center</module>
+        <module>user-center</module>
         <module>order-center</module>
         <module>eureka-center</module>
         <module>shop-stub</module>

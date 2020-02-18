@@ -1,0 +1,10 @@
+com\pein\user\controller\HomeController.class
+com\pein\user\dao\domain\UserInfoDoExample.class
+com\pein\user\dao\domain\UserInfoDo.class
+com\pein\user\dao\domain\UserInfoDoExample$Criteria.class
+com\pein\user\dao\domain\UserInfoDoExample$GeneratedCriteria.class
+com\pein\user\controller\AddController.class
+com\pein\user\UserApplication.class
+com\pein\user\dao\domain\UserInfoDoExample$Criterion.class
+com\pein\user\dao\mapper\UserInfoDoMapper.class
+com\pein\user\service\UserInfoService.class

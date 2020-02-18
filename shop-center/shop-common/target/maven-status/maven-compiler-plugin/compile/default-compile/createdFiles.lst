@@ -1,4 +1,4 @@
-com\pein\modal\dto\MemberInfoDTO.class
 com\pein\modal\dto\OrderInfoDTO.class
 com\pein\modal\dto\SaleInfoDTO.class
 com\pein\modal\vo\Result.class
+com\pein\modal\dto\UserInfoDTO.class
